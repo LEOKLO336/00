@@ -1,0 +1,9 @@
+# Visual Studio 2015 user specific files
+.vs/
+
+Intermediate/
+Plugins\WaffleSaveSystem\Intermediate
+
+Saved/
+
+*.sln
